@@ -9,7 +9,7 @@ A simple yet classic Tic-Tac-Toe game where two players take turns marking space
 
 - **Features**: Player vs Player mode, reset option
 - **Tech Stack**: HTML, CSS, JavaScript
-- [GitHub Repo](#) | [Live Demo](#)
+- [GitHub Repo](#) | [Live Demo](#https://projectdeepak.netlify.app/)
 
 ### 2. Weather Application
 A weather application that fetches real-time weather data for a city input by the user using an external API.
